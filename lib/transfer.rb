@@ -20,8 +20,6 @@ class Transfer
     else
       @status = "rejected"
     end
-
-
   end
 
 end
